@@ -5,4 +5,7 @@
     <string name="permission_denied_msg">Please consider granting it all permission</string>
     <string name="location_track_start_msg">Location tracking started</string>
     <string name="location_track_stop_msg">Location tracking stopped</string>
+    <string name="gps_enable_msg">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="enable_gps">Enable</string>
+    <string name="cancel_diaog">Cancel</string>
 </resources>
